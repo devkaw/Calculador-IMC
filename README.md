@@ -1,0 +1,1 @@
+Esta calculadora em Python calcula o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos. O IMC é uma medida que indica a relação entre peso e altura, permitindo a avaliação do peso corporal em relação à saúde. A interpretação do IMC é fornecida para indicar se o peso está abaixo do normal, dentro do intervalo saudável, com sobrepeso ou indicativo de obesidade.
