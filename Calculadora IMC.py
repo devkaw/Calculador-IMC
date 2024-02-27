@@ -283,5 +283,5 @@ while True:
         continue
 
     if a == 'N':
-        'Obrigado por usar meu programa!'
+        print('Obrigado por usar meu programa!')
         break
